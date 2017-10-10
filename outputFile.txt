@@ -1,0 +1,239 @@
+Welcome to the Towers of Hanoi program!
+
+--------------------------------------------------
+
+The user chose to use 4 disks.
+
+Move Disk 1 from Pole A to Pole B.
+
+Move Disk 2 from Pole A to Pole C.
+
+Move Disk 1 from Pole B to Pole C.
+
+Move Disk 3 from Pole A to Pole B.
+
+Move Disk 1 from Pole C to Pole A.
+
+Move Disk 2 from Pole C to Pole B.
+
+Move Disk 1 from Pole A to Pole B.
+
+Final move: Move Disk 4 from Pole A to Pole C.
+
+Move Disk 1 from Pole B to Pole C.
+
+Move Disk 2 from Pole B to Pole A.
+
+Move Disk 1 from Pole C to Pole A.
+
+Final move: Move Disk 3 from Pole B to Pole C.
+
+Move Disk 1 from Pole A to Pole B.
+
+Final move: Move Disk 2 from Pole A to Pole C.
+
+Final move: Move Disk 1 from Pole B to Pole C.
+
+
+--------------------------------------------------
+
+The user chose to use 5 disks.
+
+Move Disk 1 from Pole A to Pole C.
+
+Move Disk 2 from Pole A to Pole B.
+
+Move Disk 1 from Pole C to Pole B.
+
+Move Disk 3 from Pole A to Pole C.
+
+Move Disk 1 from Pole B to Pole A.
+
+Move Disk 2 from Pole B to Pole C.
+
+Move Disk 1 from Pole A to Pole C.
+
+Move Disk 4 from Pole A to Pole B.
+
+Move Disk 1 from Pole C to Pole B.
+
+Move Disk 2 from Pole C to Pole A.
+
+Move Disk 1 from Pole B to Pole A.
+
+Move Disk 3 from Pole C to Pole B.
+
+Move Disk 1 from Pole A to Pole C.
+
+Move Disk 2 from Pole A to Pole B.
+
+Move Disk 1 from Pole C to Pole B.
+
+Final move: Move Disk 5 from Pole A to Pole C.
+
+Move Disk 1 from Pole B to Pole A.
+
+Move Disk 2 from Pole B to Pole C.
+
+Move Disk 1 from Pole A to Pole C.
+
+Move Disk 3 from Pole B to Pole A.
+
+Move Disk 1 from Pole C to Pole B.
+
+Move Disk 2 from Pole C to Pole A.
+
+Move Disk 1 from Pole B to Pole A.
+
+Final move: Move Disk 4 from Pole B to Pole C.
+
+Move Disk 1 from Pole A to Pole C.
+
+Move Disk 2 from Pole A to Pole B.
+
+Move Disk 1 from Pole C to Pole B.
+
+Final move: Move Disk 3 from Pole A to Pole C.
+
+Move Disk 1 from Pole B to Pole A.
+
+Final move: Move Disk 2 from Pole B to Pole C.
+
+Final move: Move Disk 1 from Pole A to Pole C.
+
+
+--------------------------------------------------
+
+The user chose to use 6 disks.
+
+Move Disk 1 from Pole A to Pole B.
+
+Move Disk 2 from Pole A to Pole C.
+
+Move Disk 1 from Pole B to Pole C.
+
+Move Disk 3 from Pole A to Pole B.
+
+Move Disk 1 from Pole C to Pole A.
+
+Move Disk 2 from Pole C to Pole B.
+
+Move Disk 1 from Pole A to Pole B.
+
+Move Disk 4 from Pole A to Pole C.
+
+Move Disk 1 from Pole B to Pole C.
+
+Move Disk 2 from Pole B to Pole A.
+
+Move Disk 1 from Pole C to Pole A.
+
+Move Disk 3 from Pole B to Pole C.
+
+Move Disk 1 from Pole A to Pole B.
+
+Move Disk 2 from Pole A to Pole C.
+
+Move Disk 1 from Pole B to Pole C.
+
+Move Disk 5 from Pole A to Pole B.
+
+Move Disk 1 from Pole C to Pole A.
+
+Move Disk 2 from Pole C to Pole B.
+
+Move Disk 1 from Pole A to Pole B.
+
+Move Disk 3 from Pole C to Pole A.
+
+Move Disk 1 from Pole B to Pole C.
+
+Move Disk 2 from Pole B to Pole A.
+
+Move Disk 1 from Pole C to Pole A.
+
+Move Disk 4 from Pole C to Pole B.
+
+Move Disk 1 from Pole A to Pole B.
+
+Move Disk 2 from Pole A to Pole C.
+
+Move Disk 1 from Pole B to Pole C.
+
+Move Disk 3 from Pole A to Pole B.
+
+Move Disk 1 from Pole C to Pole A.
+
+Move Disk 2 from Pole C to Pole B.
+
+Move Disk 1 from Pole A to Pole B.
+
+Final move: Move Disk 6 from Pole A to Pole C.
+
+Move Disk 1 from Pole B to Pole C.
+
+Move Disk 2 from Pole B to Pole A.
+
+Move Disk 1 from Pole C to Pole A.
+
+Move Disk 3 from Pole B to Pole C.
+
+Move Disk 1 from Pole A to Pole B.
+
+Move Disk 2 from Pole A to Pole C.
+
+Move Disk 1 from Pole B to Pole C.
+
+Move Disk 4 from Pole B to Pole A.
+
+Move Disk 1 from Pole C to Pole A.
+
+Move Disk 2 from Pole C to Pole B.
+
+Move Disk 1 from Pole A to Pole B.
+
+Move Disk 3 from Pole C to Pole A.
+
+Move Disk 1 from Pole B to Pole C.
+
+Move Disk 2 from Pole B to Pole A.
+
+Move Disk 1 from Pole C to Pole A.
+
+Final move: Move Disk 5 from Pole B to Pole C.
+
+Move Disk 1 from Pole A to Pole B.
+
+Move Disk 2 from Pole A to Pole C.
+
+Move Disk 1 from Pole B to Pole C.
+
+Move Disk 3 from Pole A to Pole B.
+
+Move Disk 1 from Pole C to Pole A.
+
+Move Disk 2 from Pole C to Pole B.
+
+Move Disk 1 from Pole A to Pole B.
+
+Final move: Move Disk 4 from Pole A to Pole C.
+
+Move Disk 1 from Pole B to Pole C.
+
+Move Disk 2 from Pole B to Pole A.
+
+Move Disk 1 from Pole C to Pole A.
+
+Final move: Move Disk 3 from Pole B to Pole C.
+
+Move Disk 1 from Pole A to Pole B.
+
+Final move: Move Disk 2 from Pole A to Pole C.
+
+Final move: Move Disk 1 from Pole B to Pole C.
+
+
+--------------------------------------------------
+
+The user has chosen to quit the program.
+
